@@ -8,9 +8,6 @@ tags:
 
 Houses were classified into two:
 
-- Sitril
-- Peril
-
 - ## Sitril
   - small mud house for playing
   - refers to hous with miniature design
