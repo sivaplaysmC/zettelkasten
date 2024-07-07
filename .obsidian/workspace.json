@@ -11,8 +11,12 @@
             "id": "8fba7d2e9ecb92a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tamil/unti1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tamil/unti1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tamil/unti1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tamil/unti1.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "8fba7d2e9ecb92a7",
   "lastOpenFiles": [
+    "tamil/unti1.md~",
+    "tamil/unti1.md",
+    "tamil",
     "2024/Jul/8/Tamil End Sem exam.md",
     "2024/Jul/8"
   ]
