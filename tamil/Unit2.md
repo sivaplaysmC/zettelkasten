@@ -8,7 +8,7 @@ tags:
 
 Houses were classified into two:
 
-- ## Sitril
+- #### Sitril
   - small mud house for playing
   - refers to hous with miniature design
   - has pillared structre
@@ -16,6 +16,6 @@ Houses were classified into two:
   - Sevvai sitril - Small house covered with red sand
   - has fence with slant spikes
 
-## Peril
--
+- #### Peril
+  - 
 
